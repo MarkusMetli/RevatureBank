@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.service.UserService"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetails"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.domain.security.Authority"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.service.UserServiceImpl.UserSecurityService"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.domain.security.UserRole"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.service.AccountService"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.dao.RoleDao"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.service.TransactionService"/>
+    <fullyQualifiedTypeName name="java.security.Principal"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.domain.PrimaryAccount"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.domain.SavingsAccount"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.domain.PrimaryTransaction"/>
+    <fullyQualifiedTypeName name="javax.servlet.Filter"/>
+    <fullyQualifiedTypeName name="com.revaturebank.bankingwebservice.domain.User"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,16 @@
+package com.revaturebank.bankingwebservice.dao;
+
+
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.revaturebank.bankingwebservice.domain.User;
+
+public interface UserDao extends CrudRepository<User, Long> {
+	User findByUsername(String username);
+    User findByEmail(String email);
+    boolean checkUserExists(String username, String email);
+    boolean checkUserNameExists(String username);
+    boolean checkEmailExists(String email);
+    void saveUser (User user);
+}

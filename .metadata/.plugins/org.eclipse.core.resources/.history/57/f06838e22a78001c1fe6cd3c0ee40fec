@@ -1,0 +1,5 @@
+package com.revaturebank.bankingwebservice.service;
+
+public interface TransactionService {
+
+}

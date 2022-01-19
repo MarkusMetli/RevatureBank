@@ -1,0 +1,5 @@
+package com.revaturebank.bankingwebservice.resource;
+
+public class AppointmentResource {
+
+}

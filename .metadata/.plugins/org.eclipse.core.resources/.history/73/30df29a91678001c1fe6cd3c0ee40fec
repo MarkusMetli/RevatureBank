@@ -1,0 +1,5 @@
+package com.revaturebank.bankingwebservice.Dao;
+
+public class UserDao {
+
+}
